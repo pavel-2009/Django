@@ -25,17 +25,23 @@
 ## ⚙️ Установка и запуск
 
 1. Клонируй репозиторий:
+
    git clone https://github.com/pavel-2009/Django.git
+
    cd Django
 
 2. Установи зависимости:
-    pip install -r requirements.txt
+
+   pip install -r requirements.txt
 
 3. Примени миграции:
-    python manage.py migrate
+
+   python manage.py migrate
 
 4. Запусти сервер:
-    python manage.py runserver
+
+   python manage.py runserver
 
 5. Открой в браузере:
-    http://127.0.0.1:8000
+
+   http://127.0.0.1:8000
